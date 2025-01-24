@@ -5,3 +5,4 @@ reset file2 checkout
 >>>>>>> phase3
 
 Added phase
+Updated by Dev
