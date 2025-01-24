@@ -1,1 +1,1 @@
-reset file2
+reset file2 branch merging
