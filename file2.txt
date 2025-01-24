@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 reset file2 branch merging
+=======
+reset file2 checkout
+>>>>>>> phase3
+
+Added phase
